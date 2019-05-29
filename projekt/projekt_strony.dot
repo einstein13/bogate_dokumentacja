@@ -1,0 +1,11 @@
+digraph GR {
+    strona_glowna -> wszystkie_strony;
+    opis_aplikacji -> wszystkie_strony;
+    tytul_projektu -> strona_glowna;
+    cel_aplikacji -> strona_glowna;
+    lista_linkow -> strona_glowna;
+    zespol -> strona_glowna;
+    specjalne_podziekowania -> strona_glowna;
+    funkcjonalności -> opis_aplikacji;
+    screeny -> opis_aplikacji;
+}
