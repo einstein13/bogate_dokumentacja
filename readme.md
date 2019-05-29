@@ -1,7 +1,19 @@
-# Funkcjonalności #
+# Forex Offline #
 
-Opisać podstawowe funkcjonalności
+Coś o nazwie
 
-# Zrzuty ekranu #
+# Cel aplikacji #
 
-Zrzuty wraz z opisami
+Coś o aplikacji
+
+# Linki #
+
+Lista linków, w tym link do instrukcji obsługi
+
+# Zespół #
+
+Lista osób
+
+# Specjalne podziękowania #
+
+Dla quantor.pl
