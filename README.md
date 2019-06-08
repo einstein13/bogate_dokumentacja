@@ -24,8 +24,15 @@ https://github.com/stalj/bai/blob/master/99-Project/BAIProjectRequirements.pdf
 
 # Zespół #
 
-Lista osób
+Osoby, które tworzyły ten projekt:
+
+  * Jakub Rak, nr albumu 213601 (Lider zespołu)
+  * Maciej Małochleb, nr albumu 213722
+  * Małgorzata Nizio, nr albumu 213733
+  * Marcin Stanuch, nr albumu 213597
+
+Wszystkie należą do grupy dziekanatowej WZISN2-1212
 
 # Specjalne podziękowania #
 
-Dla quantor.pl
+W tym miejscu chcielibyśmy serdecznie podziękować serwisowi **[quantor.pl](https://quantor.pl/)**, który w swojej uprzejmości udostępnił API używane przez aplikację do znajdywania najbliższych kantorów.
