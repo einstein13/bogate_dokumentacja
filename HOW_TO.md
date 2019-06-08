@@ -13,4 +13,20 @@ W tym miejscu warto zaznaczyć, że po określeniu, która oferta jest wybrana p
 
 # Zrzuty ekranu #
 
-![wyszukaj.png](./images/001_wyszukaj.png)
+![wyszukaj.png](./images/001_wyszukaj.png)  
+**Obraz 1.:** Ekran wyszukiwania najlepszej oferty kupna lub sprzedaży.
+
+![wyszukaj.png](./images/002_rezultaty.png)  
+**Obraz 2.:** Wyniki wyszukiwania oferty sprzedaży Euro.
+
+![wyszukaj.png](./images/003_znajdz_trase.png)  
+**Obraz 3.:** Spersonalizowana trasa dojazdu do kantoru Centuś.
+
+![wyszukaj.png](./images/004_zaloguj.png)  
+**Obraz 4.:** Ekran logowania użytkownika.
+
+![wyszukaj.png](./images/005_ogolny_widok.png)  
+**Obraz 5.:** Widok ogólny historii transakcji.
+
+![wyszukaj.png](./images/006_historia_transakcji.png)  
+**Obraz 6.:** Widok szczegółowy historii transakcji.
