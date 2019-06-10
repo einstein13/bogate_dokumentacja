@@ -13,7 +13,7 @@ W tym miejscu warto zaznaczyć, że po określeniu, która oferta jest wybrana p
 
 # Zrzuty ekranu #
 
-![wyszukaj.png](./images/001_wyszukaj.png)  
+![wyszukaj.png](./images/001_wyszukaj_b.png)  
 **Obraz 1.:** Ekran wyszukiwania najlepszej oferty kupna lub sprzedaży.
 
 ![wyszukaj.png](./images/002_rezultaty.png)  
